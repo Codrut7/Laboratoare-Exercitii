@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Db_layer
+Bundle-SymbolicName: com.codrut.db_layer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: CODRUT
+Automatic-Module-Name: com.codrut.db_layer
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.codrut.model
